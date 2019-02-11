@@ -1,4 +1,4 @@
-# Zuthos Cave
+# Zythos Cellar
 
 > A native application built with NativeScript-Vue
 

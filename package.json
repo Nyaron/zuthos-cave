@@ -1,11 +1,11 @@
 {
-  "name": "zuthos-cave",
+  "name": "zythos-cellar",
   "version": "1.0.0",
   "description": "A native application built with NativeScript-Vue",
   "author": "Nyaron <cedricd88+gth@gmail.com>",
   "license": "MIT",
   "nativescript": {
-    "id": "fr.cedricdollinger.zuthoscave",
+    "id": "fr.cedricdollinger.zythoscellar",
     "tns-ios": {
       "version": "5.0.0"
     },
